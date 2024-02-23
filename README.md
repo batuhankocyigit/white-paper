@@ -1,9 +1,7 @@
-# tea white-paper 2.1.0
-
-The tea white paper is a [semantically versioned](https://semver.org),
-[Markdown](https://daringfireball.net/projects/markdown/) document.
-New releases are deployed to Gitbook.
-
-## Contributing
-
-If you have general feedback, please open a [discussion](../../discussions) thread.
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xCAeE83681db909A36044FfF61E14eB4BF202Fa77'
+quorum: 1
+[batukocy]()
